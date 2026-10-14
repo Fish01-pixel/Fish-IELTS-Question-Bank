@@ -1,0 +1,274 @@
+{
+  "name": "Fish的雅思题库",
+  "version": "1.0.0",
+  "offline": true,
+  "personalDataIncluded": false,
+  "topics": 260,
+  "media": 66,
+  "files": [
+    {
+      "path": "assets/a775ad9deefdca9825fc201ccaf5a86da7c390c4c39dfb02f3dd4801c6257f3a.mp3",
+      "bytes": 5156823
+    },
+    {
+      "path": "assets/25aa9e779122321e3d62b7acbf039bd3f559e609024a36227070f946307b43f9.mp3",
+      "bytes": 7473571
+    },
+    {
+      "path": "assets/6339efbaee6180af7a73bfbca2500fc57db4172bea98643995f2b85989af8aa3.mp3",
+      "bytes": 6929388
+    },
+    {
+      "path": "assets/ab3c041cdb2f26ca6db28d1f5ae2873e7bf71f6f835494c20acc84f36f4f5ee9.mp3",
+      "bytes": 5264327
+    },
+    {
+      "path": "assets/0a2b82c705aded77dd496ba1fea8d5e06f32a3c821267824ba9300c4300d5b7e.mp3",
+      "bytes": 9554397
+    },
+    {
+      "path": "assets/b2208a6446d0cb615d4c4c79aec1d25e757cfd88a7a520f4ef426217abbc97f3.mp3",
+      "bytes": 8466926
+    },
+    {
+      "path": "assets/ba4f175b6fb3dffa68b2bd844a0fad7e5f0c380083c43d5b605ae8695a01f497.mp3",
+      "bytes": 9387773
+    },
+    {
+      "path": "assets/dc650372a994156c373a15c02b5acbad65a126673618bb5c70a55f460201bc72.mp3",
+      "bytes": 13983865
+    },
+    {
+      "path": "assets/6fbc78ecf1cb05be3a4bb96859e6dc8c21fa279a6ffb51bced4acddbf438430b.mp3",
+      "bytes": 6936910
+    },
+    {
+      "path": "assets/2a780eb8ae16a4f002f27cb2d25e58599bab9509f55c3bb0a7f0f528fa582dee.mp3",
+      "bytes": 5835372
+    },
+    {
+      "path": "assets/25498c80a9a5a110b1c5e834a60f8a531b056f6a1c4e25169db8cb45fe7321db.mp3",
+      "bytes": 10281108
+    },
+    {
+      "path": "assets/b6b13f81d25abac24066df2a6855592a6a689a2bc7480d358322f01958e1de66.mp3",
+      "bytes": 10335675
+    },
+    {
+      "path": "assets/2f97c869facd7491ed54bf1d125c6f0c97528b3224a691215fc2ac68e894d0e8.mp3",
+      "bytes": 9859156
+    },
+    {
+      "path": "assets/cf198376246946a3c33e655d9b860b2d0fcf523c56ac01021867b1085bf7d20d.mp3",
+      "bytes": 6017203
+    },
+    {
+      "path": "assets/222f4a2285e340ee5300204e3472d8fae02eac9c6bb7726b1a629d9a9a4a245a.mp3",
+      "bytes": 6598918
+    },
+    {
+      "path": "assets/81b23ca1431972cb11e31be67c8449d692a38a75a275d1f1b446aa71a61d0ab2.mp3",
+      "bytes": 7155719
+    },
+    {
+      "path": "assets/8d20f789ca0182eb3a784905d7fa5cb102cc8eecaac9753a1e1be66cebc92701.mp3",
+      "bytes": 11434167
+    },
+    {
+      "path": "assets/5fb261d63cb1bb769ad2518e7fbef6d4efd3784f72feded9e172ba3003bb4ead.mp3",
+      "bytes": 9828582
+    },
+    {
+      "path": "assets/fe5ed15e78a5455bd41da9a88dabeefe757298a30cbc3de37aad54385db328e3.mp3",
+      "bytes": 17932048
+    },
+    {
+      "path": "assets/1d6857c424dafc8ed99febc15baa892aeb55f756c3ee1c4d0d0376cc6fad00c3.mp3",
+      "bytes": 14248663
+    },
+    {
+      "path": "assets/fb47dfed5bc86ebfc86d86814591cc284e04666fdde2f6b063fc483fa32d9e4a.mp3",
+      "bytes": 64308808
+    },
+    {
+      "path": "assets/234dd78054b6a6a256ac473628b8c4513d89b288241b146ff7f07ba4149c80a8.mp3",
+      "bytes": 15188056
+    },
+    {
+      "path": "assets/e5880c48263b47552408eafe6f29ff38991bfe6e9f1e77e33c146e22e298688b.mp3",
+      "bytes": 74078486
+    },
+    {
+      "path": "assets/428c0203f7dea83e9b80d67f32bc5a774bcc2e51eb5943e85218717a84563152.mp3",
+      "bytes": 15016210
+    },
+    {
+      "path": "assets/17eeb2b5c9b028de8b947e6a47c4e4ed6a5d7b063260b7eec0a87283e9f9fcf0.mp3",
+      "bytes": 67583442
+    },
+    {
+      "path": "assets/13432e724430af1b73129582282ed1ade8249b5edad58058a535a54da0148f48.mp3",
+      "bytes": 15971937
+    },
+    {
+      "path": "assets/c2987400bdfb9a3e7cf82e432e640a71d1ba1bf24ea758d04d63a51944ab1ef8.mp3",
+      "bytes": 84032226
+    },
+    {
+      "path": "assets/922db125c003044021c738ec9aef776d9d09d50998ecaf0f467b84487bf1c4a6.mp3",
+      "bytes": 18214450
+    },
+    {
+      "path": "assets/203fb0c7f96bfd16da7322c97db8dbb03c0153267aa14c63f25f5852a327bd83.mp3",
+      "bytes": 71867324
+    },
+    {
+      "path": "assets/7009953f30435ca79cca3b0a7e53a2d7d8c6c23c04b6b1dee90f1d661651a04b.mp3",
+      "bytes": 17523303
+    },
+    {
+      "path": "assets/3c6e0915b05aa4e4bf28bb7a613df4f756a49c118894fae739743acd98c48da8.mp3",
+      "bytes": 75127530
+    },
+    {
+      "path": "assets/d7d32ad3db4e3ffaa1ec9cf2aa5f2bf964be78308847388e3618b4b6fce5a9d9.mp3",
+      "bytes": 17948050
+    },
+    {
+      "path": "assets/52c615925fe1ff4eba6322b3baaad4421088e02c452fa9cc70dfbe59e5e1e37d.mp3",
+      "bytes": 58337764
+    },
+    {
+      "path": "assets/a54accce87c03a4da596ad26cfd1f49b8bb06ac2f815708d1bfdbc7a799c365f.mp3",
+      "bytes": 17328382
+    },
+    {
+      "path": "assets/058e04984a9fb460d625ea0535b39c3eda60ee2a9a5baeb9d8383ebe8ac705ef.mp3",
+      "bytes": 70309810
+    },
+    {
+      "path": "assets/8ad7394705b65a555850d334a302167276aca737acae1b0ead4e51a932218174.mp3",
+      "bytes": 15603732
+    },
+    {
+      "path": "assets/7716e567ed50aeac02d5a5c9337584f1ae41052b5f53d2b3ab5faefcf9625116.mp3",
+      "bytes": 62628008
+    },
+    {
+      "path": "assets/3f8fa814769e39dc4c69e74e51fc36fc44913e7dbae7d4cf2371104f2e540f14.mp3",
+      "bytes": 15310661
+    },
+    {
+      "path": "assets/691aff5b3205d7e8c3782eba64df020366ccbf4f98922f14f949b61fdb886d0d.mp3",
+      "bytes": 84415582
+    },
+    {
+      "path": "assets/b188ca558c5a350d075f217c7e46ab123c7762cf43196aeb73011f1d66c536ac.mp3",
+      "bytes": 17410932
+    },
+    {
+      "path": "assets/8234bbaeaf5f6d4e629df0d3e00cda1d10c6a48dc6eaec37b8831d3ef4c197ba.mp3",
+      "bytes": 7713479
+    },
+    {
+      "path": "assets/7971a031f09d80b8556ab7dc15e4c784b89572499ccbd744e287718bfb89e5d3.mp3",
+      "bytes": 7937087
+    },
+    {
+      "path": "assets/95d76fe60826798e1fca6ea9fa8e7b3d4405a72991808113bb6ba3c75911cae3.mp3",
+      "bytes": 8033636
+    },
+    {
+      "path": "assets/5ebfc0a1b238808c15f15c785ae2826d52981b2ba34984736e330b27bd17cdf5.mp3",
+      "bytes": 8305310
+    },
+    {
+      "path": "assets/890644fcc70bbbc4f8285ee6c15b32df872b340746003020ae949e38f72156c1.mp3",
+      "bytes": 8145231
+    },
+    {
+      "path": "assets/a89730c90420826514567905d14b1fce409984cf5a86217b858dbae9eee4f782.mp3",
+      "bytes": 7233662
+    },
+    {
+      "path": "assets/8e13a13da5ea72bfff90f0352c8476c78b600e58685dad1c864349beff38b155.mp3",
+      "bytes": 8049518
+    },
+    {
+      "path": "assets/015d9e374a33f57fc7a91032f19b4dd7a0c76956b7bef333520109d5056862ec.mp3",
+      "bytes": 6881323
+    },
+    {
+      "path": "assets/53151f9ca7f8872789377b66b0cb533d86dc0c66f84cc4b489bde18d2a5c3e1c.mp3",
+      "bytes": 4027079
+    },
+    {
+      "path": "assets/d6b07becad9700d212c2b90ffea81900eb389fe38a3d3dbc75d50f64b0fbd7c6.mp3",
+      "bytes": 6258981
+    },
+    {
+      "path": "assets/87de5d440e5cc966c4f5fca00b321ec12ccb1e68b399a518104dde97d1bea7f5.png",
+      "bytes": 451780
+    },
+    {
+      "path": "assets/63e9f92b7ad2d2c9e03758c1f68f6a6bfa40641ac5948a654728c35912a78e68.png",
+      "bytes": 160690
+    },
+    {
+      "path": "assets/660d67458b889fcd326dbfeec3d9ae390f39202297f243c0e1a8ad34897ceaf6.png",
+      "bytes": 473272
+    },
+    {
+      "path": "assets/58bca18e84c029f320ad4ebf0711c8d692cca3913e6a65e4b3ee727ed6d607f9.png",
+      "bytes": 79435
+    },
+    {
+      "path": "assets/7525588809797ec4a60d8fed203595d0cb6f7b7d285993020503946a00474358.jpg",
+      "bytes": 170536
+    },
+    {
+      "path": "assets/d5b8029b58917b25c98ceb214a239b2f8ae57b161726ef773e0d00361b763cc0.jpg",
+      "bytes": 183442
+    },
+    {
+      "path": "assets/b513f2a65b1bd83f0c8e5c30f29d5379861f51cd732139da0dd229dfced594f4.png",
+      "bytes": 1540244
+    },
+    {
+      "path": "assets/a44d234cf495bd2349bc200fed8083fd85f20ee52bed41380206c7f91a50b344.jpg",
+      "bytes": 193676
+    },
+    {
+      "path": "assets/dbbd49d23ac779ffe5acc6ca9e30c9ec82605abba8b8c76ff50321a28fb33997.png",
+      "bytes": 961599
+    },
+    {
+      "path": "assets/f1fab77b1c3ab1554394d68576599e589e77f168e57f681c23caf5b606af6eae.png",
+      "bytes": 1228337
+    },
+    {
+      "path": "assets/6234130e8f3a16fceda6a514ada37b30e4c0ef71c92bb2beb8a44ca2dabb90dc.png",
+      "bytes": 1220468
+    },
+    {
+      "path": "assets/859f5a68075c897e4d3b6b8bcafd3c8e48961cab2e4c88c7d009ea6b876c9c65.png",
+      "bytes": 1192012
+    },
+    {
+      "path": "assets/992225bc336de85dd23fba0840111e06f0694f4125c17f0b3fca88738647a106.jpg",
+      "bytes": 145239
+    },
+    {
+      "path": "assets/5146f2c79b6079691ab94b093180684a182b165793404353a1d8f0f1e582958c.png",
+      "bytes": 1258461
+    },
+    {
+      "path": "assets/3e83585a687dd15de0259a241a87390bb1052124a79a43c24e5634f0fc32dd62.png",
+      "bytes": 1180109
+    },
+    {
+      "path": "assets/chief-joseph.mp3",
+      "bytes": 896201
+    }
+  ]
+}
